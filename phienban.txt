@@ -1,7 +1,5 @@
-# File thông tin phiên bản – phần mềm đọc file này để biết có bản mới không.
-# Dòng bắt đầu bằng # là ghi chú. Dấu | trong ghi_chu = xuống dòng.
 phien_ban=1.1.0
-tai_ve=https://github.com/TAI-KHOAN/banhang-capnhat/releases/download/v1.1.0/BANHANG_Setup_1.1.0.exe
+tai_ve=
 sha256=
-ghi_chu=Thu nợ nhiều đơn của 1 khách|Khoá bản quyền theo máy|Tự cập nhật qua mạng
+ghi_chu=Bản đầu tiên
 bat_buoc=0
