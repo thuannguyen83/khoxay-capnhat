@@ -1,5 +1,5 @@
-phien_ban=1.2.0
-tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.0/KhoXay_Setup_1.2.0.0.exe
+phien_ban=1.2.1
+tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.1/KhoXay_Setup_1.2.1.0.exe
 sha256=2f47adb58d1641f7f11202732776483e56214389e81462a3665b778e17af8bce
 ghi_chu=Màn đăng nhập mới|Menu mở 3 nhóm|Thanh tiêu đề màu xanh
 bat_buoc=0
