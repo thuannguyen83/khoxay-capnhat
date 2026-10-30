@@ -1,5 +1,5 @@
 phien_ban=1.2.3
 tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.3/KhoXay_Setup_1.2.3.0.exe
 sha256:f60b20517c6ec959e268582ad6d4412ee8cb56ede29db7b60806de2d874623a3
-ghi_chu=Cập nhật cấu hình bản quyền: hỗ trợ mã kích hoạt có thời hạn cập nhật miễn phí|Hiển thị ngày phát hành và hạn cập nhật trong mục Giới thiệu & bản quyền|Nhắc trước 15 ngày khi sắp hết hạn cập nhật|Tự động kiểm tra, tải và cài đặt bản mới
+ghi_chu=Cảnh báo công nợ khách hàng, sửa lỗi unicode của trang tài chính.
 bat_buoc=0
