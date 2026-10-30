@@ -1,5 +1,5 @@
 phien_ban=1.2.1
 tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.1/KhoXay_Setup_1.2.1.0.exe
-sha256=2f47adb58d1641f7f11202732776483e56214389e81462a3665b778e17af8bce
-ghi_chu=Màn đăng nhập mới|Menu mở 3 nhóm|Thanh tiêu đề màu xanh
+sha256:f1b4256e91202e94424e6f984003b3ea2fad2b5463b639216067bb44f1dd6084
+ghi_chu=ADMIN mở khoá phiếu nhập quá 24 giờ|Chặn xoá phiếu nhập khi hàng đã bán|Sửa hiển thị tên góc menu|Sửa màn khôi phục mật khẩu
 bat_buoc=0
