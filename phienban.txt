@@ -1,5 +1,5 @@
 phien_ban=1.2.1
-tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.1/KhoXay_Setup_1.2.1.0.exe
-sha256:f1b4256e91202e94424e6f984003b3ea2fad2b5463b639216067bb44f1dd6084
-ghi_chu=ADMIN mở khoá phiếu nhập quá 24 giờ|Chặn xoá phiếu nhập khi hàng đã bán|Sửa hiển thị tên góc menu|Sửa màn khôi phục mật khẩu
+tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.2/KhoXay_Setup_1.2.2.0.exe
+sha256:386f786c1d4d490bbf012b9613447def87843f2e5f002f8f9e57cc6291e75ca2
+ghi_chu=Cập nhật cấu hình bản quyền: hỗ trợ mã kích hoạt có thời hạn cập nhật miễn phí|Hiển thị ngày phát hành và hạn cập nhật trong mục Giới thiệu & bản quyền|Nhắc trước 15 ngày khi sắp hết hạn cập nhật|Tự động kiểm tra, tải và cài đặt bản mới
 bat_buoc=0
