@@ -1,4 +1,4 @@
-phien_ban=1.2.1
+phien_ban=1.2.2
 tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.2.2/KhoXay_Setup_1.2.2.0.exe
 sha256:386f786c1d4d490bbf012b9613447def87843f2e5f002f8f9e57cc6291e75ca2
 ghi_chu=Cập nhật cấu hình bản quyền: hỗ trợ mã kích hoạt có thời hạn cập nhật miễn phí|Hiển thị ngày phát hành và hạn cập nhật trong mục Giới thiệu & bản quyền|Nhắc trước 15 ngày khi sắp hết hạn cập nhật|Tự động kiểm tra, tải và cài đặt bản mới
