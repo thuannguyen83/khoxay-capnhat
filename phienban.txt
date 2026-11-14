@@ -1,5 +1,5 @@
 phien_ban=1.3.0
-tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.3.0.0/KhoXay_Setup_1.3.0.exe
+tai_ve=https://github.com/thuannguyen83/khoxay-capnhat/releases/download/V1.3.0/KhoXay_Setup_1.3.0.0.exe
 sha256:512dbdbf6f3aa824a2c92eba6136ae0fdb4d93c4f41b0af3429080c5ffd4cb1f
 ngay_phat_hanh=2026-11-14
 ghi_chu=Trả nợ nhà cung cấp nhiều phiếu 1 lần|Lịch sử thanh toán theo khách/NCC, có in và xuất Excel|Bảng giá: nút Lưu chỉ sáng khi có thay đổi|Đơn hàng: thêm dòng Hàng trả lại, Còn nợ khớp với công nợ|Bán nhanh: chọn kho từng dòng, mã đơn BN-|Phím tắt Alt, chép dữ liệu từ lưới, gõ để lọc trong ô chọn|Sửa lỗi tích điểm khách lẻ, ĐVT đơn trả, sửa thanh toán NCC
